@@ -72,7 +72,7 @@ const animationTimeline = () => {
     )
     .to(
       ".two",
-      1.5, // Durasi diperpanjang
+      2.5, // Durasi diperpanjang
       {
         opacity: 0,
         y: 10,
